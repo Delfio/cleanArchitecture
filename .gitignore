@@ -1,2 +1,3 @@
 ubuntu-xenial-16.04-cloudimg-console
 node_modules/
+.vagrant/
